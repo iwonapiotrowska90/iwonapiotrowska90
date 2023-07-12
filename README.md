@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently hired as financial controller / PBI developer.
+
 🌱 I’m currently learning python in the evenings. I wish it were also working hours 🤓
+
 I speak Polish 🇵🇱, English 🇺🇸 and German 🇩🇪 
+
 🎹 I learn playing piano by myself
 
 More about me in my repository: about_me 🙂
